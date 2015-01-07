@@ -2,7 +2,8 @@
 <resources>
 
     <string name="app_name">AndroidProject</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="Title">The Scripted Path !</string>
+    <string name="Footer">Developed by Pacheco Mélanie, Fillon Vincent, Passé Valentin</string>
     <string name="action_settings">Settings</string>
 
 </resources>
